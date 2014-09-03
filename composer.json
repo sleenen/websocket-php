@@ -1,11 +1,15 @@
 {
-    "name": "textalk/websocket",
+    "name": "sleenen/websocket",
     "description": "WebSocket client and server",
     "license": "MIT",
     "authors": [
         {
             "name": "Fredrik Liljegren",
             "email": "fredrik.liljegren@textalk.se"
+        },
+        {
+            "name": "Stefan Leenen",
+            "email": "github@leentje.org"
         }
     ],
     "autoload": {
